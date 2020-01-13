@@ -1,0 +1,25 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "An opinionated winston logger config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K1Z4/Logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "Kiza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/K1Z4/Logger/issues"
+  },
+  "homepage": "https://github.com/K1Z4/Logger#readme",
+  "dependencies": {
+    "winston": "^2.3.1"
+  }
+}
