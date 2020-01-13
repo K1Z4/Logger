@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "@kiza/logger",
   "version": "1.0.0",
   "description": "An opinionated winston logger config",
   "main": "index.js",
