@@ -1,0 +1,2 @@
+# Logger
+An opinionated logger
